@@ -2,7 +2,7 @@ This is a custom threadpool.
 
 For more on threadpool you can visit these pages.
  1) [Wiki](https://en.wikipedia.org/wiki/Thread_pool)
- 2) [GeeksforGeeks](http://github.com)
+ 2) [GeeksforGeeks](https://www.geeksforgeeks.org/thread-pools-java/)
  
 Explaination of code.
 * The main class creates 4 sample task.
